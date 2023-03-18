@@ -1,0 +1,14 @@
+body{
+  background: pink;
+  padding: 0;
+  margin: 0;
+}
+form{
+  background: white;
+}
+h1{
+  text-align: center;
+}
+label{
+  text-align: center;
+}
